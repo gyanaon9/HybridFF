@@ -16,13 +16,8 @@ public class LoginTestCRM extends BaseClass {
 
 	@Test  
 	public void loginApp() {
-		//logger=report.createTest("Login to CRM");
 
 		ExcelDataProvider excel=new ExcelDataProvider();
-
-		//logger.info("starting Application");
-
-		//logger.pass("Login done sucessfully"); 
 
 
 		LoginPage loginPage=PageFactory.initElements(d, LoginPage.class);
