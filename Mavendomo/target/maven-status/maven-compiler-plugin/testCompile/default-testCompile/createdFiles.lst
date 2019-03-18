@@ -1,0 +1,7 @@
+Utility\Helper.class
+Testcases\LoginTestCRM.class
+Pages\BaseClass.class
+Utility\ConfigDataProvider.class
+Pages\LoginPage.class
+Utility\ExcelDataProvider.class
+Utility\BrowserFactory.class
